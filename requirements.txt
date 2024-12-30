@@ -1,6 +1,5 @@
 streamlit
 rapidfuzz
 pandas
-streamlit==1.24.0
-youtube-transcript-api==0.6.0
+youtube-transcript-api
 
