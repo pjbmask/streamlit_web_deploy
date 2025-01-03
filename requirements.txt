@@ -2,4 +2,6 @@ streamlit
 rapidfuzz
 pandas
 youtube-transcript-api
-
+Pillow
+numpy
+easyocr
