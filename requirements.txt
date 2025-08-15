@@ -5,3 +5,6 @@ youtube-transcript-api
 Pillow
 numpy
 easyocr
+plotly
+openpyxl
+xlsxwriter
